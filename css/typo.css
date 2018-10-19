@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Homemade+Apple|Lora');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Oswald');
+@import url('https://fonts.googleapis.com/css?family=Fjalla+One|Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Lobster|Noto+Sans+KR');
+@import url('https://fonts.googleapis.com/css?family=Niramit|Playfair+Display+SC');
+@import url('https://fonts.googleapis.com/css?family=Bangers|Gudea');
+
+p{
+font-family: 'Lora', serif;
+font-size: 12px;
+}
+
+h1{
+  font-size: 100px;
+  font-family: 'Homemade Apple', cursive;
+  text-align: center;
+}
+
+h2{
+  font-size: 30px;
+  font-family: 'Homemade Apple', cursive;
+  text-align: center;
+}

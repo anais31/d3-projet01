@@ -1,0 +1,120 @@
+body{
+  background-image: url(../images/paper.png);
+}
+
+.hero1 {
+  background: url('images/aesop.png') top center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color : #fff;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero1 h1{
+  font-family: 'Homemade Apple', cursive;
+  font-size: 4em;
+  padding: 24px;
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.hero {
+  background: url('images/aesop.png') top center no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  color : #000;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+header{
+  color: #000000;
+}
+header ul{
+  list-style-type: none;
+}
+header li{
+  border: 1px solid #000000;
+  padding: 3px;
+  display: inline-block;
+  margin:12px;
+  font-family: 'Homemade Apple', cursive;
+  font-size: 13px;
+}
+header a {
+  text-decoration: none;
+  color : #000000;
+  display: block;
+}
+
+li{
+  font-family: sans-serif;
+}
+.main-content{
+  max-width: 950px;
+  margin:0 auto;
+  padding: 50px;
+}
+.image-block img{
+  width: 40%;
+  padding:0;
+}
+
+#fable1 h1{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 6em;
+
+}
+#section01 p{
+   font-family: 'Oswald', sans-serif;
+  font-size: 1em;
+  text-align: left;
+}
+
+#fable2 h1{
+  font-family: 'Quicksand', sans-serif;
+  font-size: 2em;
+
+}
+#section02 p{
+  font-family: 'Fjalla One', sans-serif;
+ font-size: 1em;
+  text-align: left;
+}
+
+#fable3 h1{
+  font-family: 'Lobster', cursive;
+  font-size: 2em;
+
+}
+#section03 p{
+  font-family: 'Noto Sans KR', sans-serif;
+ font-size: 1em;
+  text-align: left;
+}
+
+#fable4 h1{
+  font-family: 'Playfair Display SC', serif;
+  font-size: 2em;
+
+}
+#section04 p{
+  font-family: 'Niramit', sans-serif;
+ font-size: 1em;
+  text-align: left;
+}
+
+#fable5 h1{
+  font-family: 'Bangers', cursive;
+  font-size: 2em;
+
+}
+#section05 p{
+  font-family: 'Gudea', sans-serif;
+ font-size: 1em;
+  text-align: left;
+}
