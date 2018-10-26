@@ -9,7 +9,7 @@ body{
   color : #fff;
   min-height: 100vh;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
 }
 
@@ -27,7 +27,7 @@ body{
   color : #000;
   min-height: 100vh;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
 }
 
@@ -36,6 +36,8 @@ header{
 }
 header ul{
   list-style-type: none;
+  display; flex;
+  flex-wrap: wrap-reverse;
 }
 header li{
   border: 1px solid #000000;
